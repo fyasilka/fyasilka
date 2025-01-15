@@ -1,6 +1,7 @@
 ## Hello! 🚀
 
 I'm Margarita, a passionate Data Scientist and Data Analyst skilled in machine learning, statistics, and big data analytics. 🚀
+
 As a recent graduate with a technical background, I am embarking on a journey in the field of Data Science. My goal is to leverage my analytical skills and problem-solving mindset to support businesses in tackling their most pressing challenges. With a keen eye for detail and a passion for continuous learning, I am eager to make meaningful contributions right from the start. My ability to grasp new concepts quickly and integrate seamlessly into existing workflows makes me a valuable addition to any team.
 
 
