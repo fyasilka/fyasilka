@@ -6,7 +6,6 @@ I'm Margarita, a passionate Data Scientist and Data Analyst skilled in machine l
 
 As a recent graduate (I decided to change my life & devoted myself to DS) with a technical background, I am embarking on a journey in the field of Data Science. My goal is to leverage my analytical skills and problem-solving mindset to support businesses in tackling their most pressing challenges. With a keen eye for detail and a passion for continuous learning, I am eager to make meaningful contributions right from the start. My ability to grasp new concepts quickly and integrate seamlessly into existing workflows makes me a valuable addition to any team.
 
-With a deep-seated love for solving complex problems, I am committed to applying my technical expertise and analytical skills to drive impactful solutions in the realm of Data Science. Whether it's deciphering intricate datasets or devising innovative approaches, I thrive on challenges that push boundaries and foster growth.
 
 - 🎰 Winner of the Business Analytics Hackathon (PIX BI company) - I place.
 - 🌱 Studied in Tomsk State Univercity (School 21 by SBERBANK) on DS
